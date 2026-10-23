@@ -75,7 +75,7 @@ Re-checked monthly. See the commit history for what changed and when.
 See [CITATION.cff](CITATION.cff), or:
 
 > Zonduo Technology. *Anna University Annexure 1 Journal List* [Data set].
-> https://github.com/USERNAME/anna-university-annexure-journal-list
+> https://github.com/phdzondeo-stack/anna-university-annexure-journal-list
 
 ## Disclaimer
 
