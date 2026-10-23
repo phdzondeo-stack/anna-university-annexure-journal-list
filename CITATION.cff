@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Anna University Annexure 1 Journal List
+message: If you use this list, please cite it.
+type: dataset
+authors:
+  - name: Zonduo Technology
+    city: Nagercoil
+    region: Tamil Nadu
+    country: IN
+    website: "https://zonduo.com/"
+repository-code: "https://github.com/USERNAME/anna-university-annexure-journal-list"
+url: "https://zonduo.com/annexure.html"
+license: CC-BY-4.0
+keywords:
+  - Anna University
+  - Annexure 1
+  - CFR journal list
+  - journal indexing
+  - PhD publication
+  - India
